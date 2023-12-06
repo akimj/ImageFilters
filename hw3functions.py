@@ -1,5 +1,3 @@
-# I Aidan Kim hereby self-attest that Team Ⰸ is the 
-# appropriate team for me
 
 from PySide6.QtGui import QPixmap, QColor
 
